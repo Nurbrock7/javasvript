@@ -15,5 +15,5 @@ console.log (cake + layers + prices) ;
 let message = "Good Morning" ; 
 alert (message + name);
 
-console.log ("Good Morning. I have baked the valentines cake a " + layers + " layer," + cake, " at" + prices + " per piece")
+console.log ("Good Morning. I have baked the valentines cake with " + layers + " layer," + cake, " at" + prices + " per piece")
 // prompt (message)
