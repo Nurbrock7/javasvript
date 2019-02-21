@@ -12,7 +12,7 @@
 
 // Declearing a Function 
 
-// Creatung a functions 
+// Creating a functions 
 
 // the keyword returns indicates that a return valur will be given , which is specified immdiately after the word.
 
