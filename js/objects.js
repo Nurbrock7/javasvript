@@ -9,13 +9,13 @@
 // JS and Objects
 
 // like many other langusges, JS invloves programming objects so we can say its an object -orientated languages it provides a number of predefined objects while letting you create your own.
-// let pen = {
-//     type: "fine" ,
-//     manufacture: "Bic" , 
-//     price : "r20"
-// }
+let pen = {
+    type: "fine" ,
+    manufacture: "Bic" , 
+    price : "r20"
+}
 
-// console.log (pen.type, pen.price) ;
+console.log (pen.type, pen.price) ;
 
 let pen = {
     brand :" Parker",

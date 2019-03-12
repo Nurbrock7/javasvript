@@ -25,7 +25,7 @@
 
 // final expressions is evaluated after the loop runs each time =. its used to update the counter variable as we saw in the loop ,example
 
-for (var counter = 1 ; counter <= 5 ; counter ++) { 
+for (var counter = 1 ; counter <= 10 ; counter ++) { 
     console.log (counter) ;
 }
 
@@ -40,16 +40,16 @@ while (letter !== "x") {
     console.log (letter);
 }
 
-// console.log ("start program") ;
-// console.log (1,2,3,4,5,6,7,8,9, 10) ;
+console.log ("start program") ;
+console.log (1,2,3,4,5,6,7,8,9, 10) ;
 
 
-// let number = 1 ;
-// while (number <=10) {
-//     console.log (number) ;
-//     number ++;
-// }
-// console.log ("end program") ;
+let number = 1 ;
+while (number <=10) {
+    console.log (number) ;
+    number ++;
+}
+console.log ("end program") ;
 
 // basic syntax ======
 
