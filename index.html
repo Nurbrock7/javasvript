@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,6 +7,24 @@
     <title>Document</title>
 </head>
 <body>
-     <script src="js/arrays.js"></script>
+ <form>
+     <div class="form-group">
+         <label for="password-input">Password</label>
+         <input type="password" id="password-input" class="form-control">
+         <small></small>
+
+     </div>
+
+     <div class="form-group">
+            <label for="confirm-password">confirm password</label>
+            <input type="password" id="confirm-password" class="form-control">
+            <small style="display:none" id="error-message"> Both password must be the same</small>
+            
+   
+        </div>
+     <button type="submit" id="submit-button" class="btn-btn-primary" disabled="true">submit</button>
+ </form>
+</body>
+<script src="js/form_handling.js"></script>
 </body>
 </html>
